@@ -3,3 +3,5 @@ let divide = function(){
 }
 
 let square = u => u**2
+
+let add = (a, b) => a + bS
